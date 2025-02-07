@@ -1,0 +1,76 @@
+commit fd51a3df49ab1e0fb2f98bb90fa2347b2b579550
+Author: DRaborn02 <draborn@calstatela.edu>
+Date:   Fri Feb 7 11:06:06 2025 -0800
+
+    Updated index.html
+    
+    Added info on Lunar to index.html
+
+commit 5b581e3c319d7c55dbc5ffdbe27ce348a07cc1d1
+Author: nosebrain <briangonzolez@gmail.com>
+Date:   Fri Feb 7 10:57:54 2025 -0800
+
+    Create README.md
+
+commit 017354133f8717275552b782c4628d424d4a4638
+Merge: f37cdce 1664eaa
+Author: nosebrain <briangonzolez@gmail.com>
+Date:   Fri Feb 7 10:53:34 2025 -0800
+
+    Merge pull request #1 from nosebrainn/feature-about-me
+    
+    Feature about me
+
+commit 1664eaaeb55db9bece2b174619c597103b48e35a
+Merge: 7f11068 f37cdce
+Author: nosebrain <briangonzolez@gmail.com>
+Date:   Fri Feb 7 10:53:13 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 7f1106885f7a2a2004592a47155d30a5ca059502
+Author: nosebrain <briangonzolez@gmail.com>
+Date:   Fri Feb 7 10:48:30 2025 -0800
+
+    Update index.html
+    
+    Filled in information with my own stuff
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
